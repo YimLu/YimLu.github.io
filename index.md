@@ -10,7 +10,7 @@ title: "Homepage"
 
 ## About The Website
 
-[Blog Posts](https://yl.github.io/archive/)中保存了本人的一些学习笔记与随笔.
+[Blog Posts](https://yimlu.github.io/archive/)中保存了本人的一些学习笔记与随笔.
 
 其他页面开发中
 
